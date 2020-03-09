@@ -1,0 +1,11 @@
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\bin\Debug\netcoreapp3.1\NHLDraftSim.exe
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\bin\Debug\netcoreapp3.1\NHLDraftSim.deps.json
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\bin\Debug\netcoreapp3.1\NHLDraftSim.runtimeconfig.json
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\bin\Debug\netcoreapp3.1\NHLDraftSim.runtimeconfig.dev.json
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\bin\Debug\netcoreapp3.1\NHLDraftSim.dll
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\bin\Debug\netcoreapp3.1\NHLDraftSim.pdb
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\obj\Debug\netcoreapp3.1\NHLDraftSim.csprojAssemblyReference.cache
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\obj\Debug\netcoreapp3.1\NHLDraftSim.AssemblyInfoInputs.cache
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\obj\Debug\netcoreapp3.1\NHLDraftSim.AssemblyInfo.cs
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\obj\Debug\netcoreapp3.1\NHLDraftSim.dll
+C:\Users\zande\source\repos\NHLDraftSim\NHLDraftSim\obj\Debug\netcoreapp3.1\NHLDraftSim.pdb
